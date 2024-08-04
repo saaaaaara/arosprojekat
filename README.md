@@ -1,7 +1,7 @@
 ## Problem: Dining Savages
 ## Knjiga: Little Book of Semaphores
 ## Programski jezik: C
-## Predmet: AROS
+## Predmet: Arhitektura računara i operativni sistemi
 
 ## Pokretanje:
 **1. Dovesti terminal do foldera u kome se nalazi ovaj projekat: npr. 'cd Desktop/imeFoldera'**
